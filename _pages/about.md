@@ -2,23 +2,25 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description:
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: WolfeRobert400.jpg
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a Ph.D. student in Information Science at the University of Washington advised by [Dr. Aylin Caliskan](https://ischool.uw.edu/people/faculty/profile/aylin). My interests are in natural language processing, machine learning, and AI ethics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research examines:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+* How underrepresentation of marginalized groups in text training corpora impacts [bias in contextualizing language models](https://arxiv.org/pdf/2110.00672.pdf) like BERT, GPT-2, and T5
+* Intrinsic evaluation and semantic geometry of contextualizing language models
+* Semantic change in regional and diachronic static word embeddings
+* What multimodal models like CLIP learn about human populations (and why it matters)
+
+Before moving to Seattle in August 2021 I finished up an M.S. in Computer Science at the George Washington University. In a past life (my early 20s) I studied Appalachian literature and rhetorical ecologies with regard to U.S. state-level secession movements. Always up for book recommendations, recipes for ribs, tips on hiking in the Seattle area, and opportunities to socialize with dogs.
