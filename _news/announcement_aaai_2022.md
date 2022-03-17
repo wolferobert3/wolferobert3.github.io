@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-12-01 15:59:00-0400
+date: 2022-02-28 15:59:00-0400
 inline: true
 ---
 
-Research with Dr. Aylin Caliskan to develop an intrinsic evaluation test capturing the dynamic behavior and unique semantic properties of language models has been accepted to **AAAI 2022**.
+[Research](https://arxiv.org/pdf/2203.07504.pdf) with [Dr. Aylin Caliskan](https://www2.seas.gwu.edu/~aylin/) to develop an intrinsic evaluation test capturing the dynamic behavior and unique semantic properties of language models was presented at **AAAI 2022**.
