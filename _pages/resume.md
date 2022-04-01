@@ -12,7 +12,7 @@ nav: true
 * M.A., English Literature, Georgetown University, 2014
 * B.A., English Literature, University of Maryland, 2012
 
-**Talks**
+**Teaching**
 * Data Science for Social Good Lecture, UW IMT575: Data Science 3: Scaling, Applications, and Ethics
 
 **Service**
