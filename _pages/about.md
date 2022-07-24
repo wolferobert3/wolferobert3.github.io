@@ -18,7 +18,7 @@ I'm a Ph.D. student in Information Science at the University of Washington advis
 
 My research examines:
 
-* How frequency in text training corpora impacts [bias in language models](https://arxiv.org/pdf/2110.00672.pdf)
+* Biases related to societal defaults with regard to [race and ethnicity](https://arxiv.org/pdf/2205.10764.pdf), [nationality](https://arxiv.org/pdf/2207.00691.pdf), and [age](https://arxiv.org/pdf/2205.11378.pdf) in multimodal language-and-image AI
 * How properties like contextualization, tokenization, and anisotropy affect measurements of [semantics in contextualized word embeddings](https://arxiv.org/abs/2203.07504)
 * How representations of natural language are affected by [multimodal visual semantic pretraining](https://arxiv.org/pdf/2203.07511.pdf)
 
