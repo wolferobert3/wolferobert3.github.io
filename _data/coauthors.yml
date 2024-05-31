@@ -5,3 +5,15 @@
 "Caliskan":
   - firstname: ["Aylin", "A."]
     url: https://www2.seas.gwu.edu/~aylin/
+
+"Howe":
+  - firstname: ["Bill", "B."]
+    url: https://faculty.washington.edu/billhowe/
+
+"Hiniker":
+  - firstname: ["Alexis", "A."]
+    url: https://www.alexishiniker.com/
+
+"Mitra":
+  - firstname: ["Tanu", "T."]
+    url: https://faculty.washington.edu/tmitra/
