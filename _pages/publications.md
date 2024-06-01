@@ -9,6 +9,8 @@ nav: true
 
 <div class="publications">
 
+<p>Please note that all publications below are peer-reviewed conference papers.</p>
+
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
