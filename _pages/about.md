@@ -7,14 +7,14 @@ description:
 profile:
   align: right
   image: WolfeRobert400.jpg
-  address: Seattle, WA
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. student in Science at the University of Washington. My interests are in AI ethics, natural language processing, and machine learning.
+I'm a Ph.D. candidate in Information Science at the University of Washington. My interests are in AI ethics, natural language processing, and machine learning.
 
 My research examines:
 
