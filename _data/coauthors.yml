@@ -17,3 +17,47 @@
 "Mitra":
   - firstname: ["Tanu", "T."]
     url: https://faculty.washington.edu/tmitra/
+
+"Weber":
+  - firstname: ["Nic", "N."]
+    url: https://nicweber.info/
+
+"Herman":
+  - firstname: ["Bernease", "B."]
+    url: https://www.berneaseherman.com/
+
+"Han":
+  - firstname: ["Bin", "B."]
+    url: https://beanham.github.io/
+
+"Wen":
+  - firstname: ["Bingbing", "B."]
+    url: https://bbwen.github.io/
+
+"Brown":
+  - firstname: ["Eva", "E."]
+    url: https://evamaxfield.github.io/
+
+"Slaughter":
+  - firstname: ["Isaac", "I."]
+    url: https://www.slaughter.page/
+
+"Rosenblatt":
+  - firstname: ["Lucas", "L."]
+    url: https://lucasrosenblatt.com/
+
+"Yang":
+  - firstname: ["Yiwei", "Y."]
+    url: https://yanyiwei.github.io/
+
+"Qu":
+  - firstname: ["Zening", "Z."]
+    url: https://light-and-salt.github.io/
+
+"Charlesworth":
+- firstname: ["Tessa", "T."]
+  url: https://www.kellogg.northwestern.edu/faculty/directory/thwaites_tessa.aspx
+
+"Banaji":
+- firstname: ["Mahzarin R.", "M."]
+  url: https://psychology.fas.harvard.edu/people/mahzarin-r-banaji

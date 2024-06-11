@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: robert-headshot-yushi.png
+  image: robert-headshot-yushi.jpeg
   address: 
 
 news: true  # includes a list of news items
