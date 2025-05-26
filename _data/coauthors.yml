@@ -64,7 +64,7 @@
 
 "Dangol":
 - firstname: ["Aayushi", "A."]
-  url: https://scholar.google.com/citations?user=BRT9BREAAAAJ&hl=en
+  url: https://adango26.github.io/
 
 "Kim":
 - firstname: ["JaeWon", "J."]
@@ -72,14 +72,18 @@
 
 "Chordia":
 - firstname: ["Ishita", "I."]
-  url: https://ischool.uw.edu/people/phd/profile/ichordia
+  url: https://ishita-chordia.squarespace.com/
+
+"Landesman":
+- firstname: ["Rotem"]
+  url: https://rotem.land/
 
 "Davis":
 - firstname: ["Katie", "K."]
   url: https://katiedavisresearch.com/
 
 "Kientz":
-- firstname: ["Julie", "J."]
+- firstname: ["Julie", "J.", "Julie A", "Julie A."]
   url: https://faculty.washington.edu/jkientz/
 
 "Yip":
@@ -102,6 +106,34 @@
 - firstname: ["Anthony Z"]
   url: https://anthliu.github.io/
 
+"Subramanian":
+- firstname: ["Ramya"]
+  url: https://rhlab.ece.uw.edu/people/ramyabhagi/
+
+"Colnago":
+- firstname: ["Jessica"]
+  url: https://jessica.colnago.org/
+
+"Zhao":
+- firstname: ["Runhua"]
+  url: https://ischool.uw.edu/people/phd/profile/runhz
+
+"Ramanan":
+- firstname: ["Trushaa"]
+  url: https://www.trushaaramanan.com/
+
+"Yoo":
+- firstname: ["Daeun"]
+  url: https://www.daeunyoo.com/
+
+"Thiruvillakkat":
+- firstname: ["Arya"]
+  url: https://www.linkedin.com/in/aryathiruvillakkat/
+
+"Chickadel":
+- firstname: ["Ben"]
+  url: https://www.ucds.org/institute/graduate-program/faculty/#5
+
 "Omrani Sabbaghi":
 - firstname: ["Shiva", "S."]
   url: https://scholar.google.com/citations?user=vz03dl0AAAAJ&hl=en
@@ -109,3 +141,11 @@
 "Ajay":
 - firstname: ["Pimparkar Parth"]
   url: https://www.linkedin.com/in/parth-pimparkar-b13b51195/?originalSubdomain=in
+
+"Nair":
+- firstname: ["Jishnu"]
+  url: https://www.linkedin.com/in/jishnu-hari-nair/
+
+"Cho":
+- firstname: ["Soobin"]
+  url: https://5oobin.github.io/website/

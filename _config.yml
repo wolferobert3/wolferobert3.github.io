@@ -51,7 +51,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: wolferobert3 # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: wolferobert3 # your Twitter handle
+twitter_username: # your Twitter handle
 linkedin_username: wolferobertiii # your LinkedIn user name
 scholar_userid: 5FZ12lEAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -103,7 +103,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 2
+news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

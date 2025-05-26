@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description:
-nav: true
+nav: false
 ---
 
 Please note that all teaching experience described below occurred at the University of Washington iSchool.

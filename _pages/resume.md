@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cv/
+permalink: /assets/pdf/robert-wolfe-cv.pdf
 title: cv
 description: 
 nav: true
