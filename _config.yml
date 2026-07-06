@@ -6,7 +6,7 @@ title: Robert Wolfe # the website title (if blank, full name will be used instea
 first_name: Robert
 middle_name: 
 last_name: Wolfe
-email: rwolfe3@uw.edu
+email: robert.wolfe@rutgers.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Robert Wolfe professional research website.
 footer_text: >
@@ -103,7 +103,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+news_limit: 3
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
